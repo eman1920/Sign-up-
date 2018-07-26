@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="pw_again_hint">Again</string>
+    <string name="mobile_no_hint">Mobile Number</string>
+    <string name="continue_button">Continue</string>
+    <string name="account">Already have An Account ? </string>
+    <string name="sign_in"> Sign In</string>
+</resources>
